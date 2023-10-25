@@ -11,3 +11,10 @@
 
 词向量训练数据，链接：https://pan.baidu.com/s/1cWt2qqH5ym0vLcjihehfGg 提取码：z6dt
 
+## 3、nlp生成词向量技术
+
+项目中使用的glove.6B.100d.txt存入到网盘中，链接如下：
+
+链接：https://pan.baidu.com/s/1JgCoUKscygI9fRrLOxIPrQ 
+提取码：kxyu 
+
