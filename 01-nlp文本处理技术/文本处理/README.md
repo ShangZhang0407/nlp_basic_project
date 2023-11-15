@@ -120,38 +120,3 @@ import jieba.analyse
     jieba.enable_parallel(4) # 开启并行分词模式，参数为并行进程数
     jieba.disable_parallel() # 关闭并行分词模式
 注意：并行分词仅支持默认分词器 jieba.dt 和 jieba.posseg.dt。
-
-**jieba中文处理.ipynb 文件**
-
------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
