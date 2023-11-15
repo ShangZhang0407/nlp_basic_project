@@ -23,7 +23,9 @@
 
 ​	/synonym.py 根据训练得到的word embedding进行同义词检索的demo
 
-词向量训练数据，链接：https://pan.baidu.com/s/1cWt2qqH5ym0vLcjihehfGg 提取码：z6dt
+词向量训练数据，链接：https://pan.baidu.com/s/1JgCoUKscygI9fRrLOxIPrQ  
+
+提取码：kxyu
 
 ## 3、nlp生成词向量技术
 
