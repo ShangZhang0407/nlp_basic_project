@@ -1,5 +1,5 @@
 """
-定义pytorch模型EmbeddingModel
+定义pytorch模型EmbeddingModel，skip-gram和负采样实现
 """
 import torch
 import torch.nn as nn
